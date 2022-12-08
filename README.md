@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" align="center" style="width: 100%" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -66,5 +66,3 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31iiwrcdsol5uosdgpqvguvmkyla&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
