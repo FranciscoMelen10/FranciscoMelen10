@@ -25,7 +25,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Aprendizaje
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -41,7 +41,7 @@
 <br/>  
 
 
-## Connect with me  
+## Redes Sociales
 <div align="center">
 <a href="https://github.com/FranciscoMelen10" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -58,11 +58,16 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FranciscoMelen10&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Estadíticas de Github
 
+<p align = "center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscomelen10&show_icons=true&locale=en&layout=compact" alt="franciscomelen10"  style="width: 50%">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscomelen10&show_icons=true&locale=en" alt="franciscomelen10"  style="width: 50%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscomelen10&" alt="franciscomelen10"  style="width: 50%"/>
+</p>
+
+## Spotify
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31iiwrcdsol5uosdgpqvguvmkyla&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
 <br />
-
