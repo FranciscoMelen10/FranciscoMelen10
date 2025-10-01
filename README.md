@@ -57,9 +57,9 @@ Estudiante de `Ingeniería en Sistemas de Información`, un entusiasta de la pro
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">   
     <h2>📊 Github status 📊</h2>
 
-  <img width="260" src="https://github-readme-stats.vercel.app/api?username=FranciscoMelen10&theme=default&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&include_all_commits=false&count_private=false" />
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=FranciscoMelen10&theme=default&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&include_all_commits=false&count_private=false" />
 
-  <img width="285" src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoMelen10&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&background=ffffff" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoMelen10&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&background=ffffff" />
 
 </div>
 
