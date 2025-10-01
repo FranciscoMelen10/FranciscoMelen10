@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=250 align="left">
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=270 align="left">
 
 ### Francisco De Jesús Meléndez Simplina
 <div align="justify">
