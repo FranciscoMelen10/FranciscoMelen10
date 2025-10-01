@@ -1,31 +1,79 @@
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=250 align="left">
 
-<div align="center">  
-<a align="center"  href="https://chicoy.vercel.app/" style="background-color: black; padding: 20px; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/Portfolio-Vist-blue" alt="Portfolio" style="display: inline-block; vertical-align: middle;">
-</a>
-
-<div>
-  <img align="center" src="https://komarev.com/ghpvc/?username=FranciscoMelen10&&style=flat-square" align="center" />
+### Francisco De Jesús Meléndez Simplina
+<div align="justify">
+    
+Estudiante de `Ingeniería en Sistemas de Información`, un entusiasta de la programación en busca de oportunidades para crecer y desarrollarme en el mundo de la tecnología.  
 </div>
 
-### 🌐 Redes:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chicoyfrancisco.melendez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chicoy_hn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231572B6.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francisco-de-jes%C3%BAs-melendez-simplina-560515247/) 
-
-### 💻 Tecnologías:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=Figma&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%23E34F26.svg?style=for-the-badge&logo=Astro&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-%231572B6.svg?style=for-the-badge&logo=Typescript&logoColor=white)
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FranciscoMelen10&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoMelen10&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMelen10&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FranciscoMelen10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<div  align="center">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iiwrcdsol5uosdgpqvguvmkyla" >
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iiwrcdsol5uosdgpqvguvmkyla" alt="Data Card for Spotify">
-</a>
-</div>
+<div align="">  
+  <a href="https://chicoy.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" 
+      alt="My Portfolio"
+    >
+  </a>
 </div>
 
+<div align="">
+<img width="180px" 
+  src="https://komarev.com/ghpvc/?username=FranciscoMelen10&label=Profile%20views&color=000000&style=for-the-badge" 
+      alt="Vistas del perfil"/> 
+<img width="115px" 
+  alt="Estrellas" 
+  title="Estrellas" 
+  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/FranciscoMelen10" /> 
+    <img width="150px" 
+       alt="seguidores" 
+       title="seguidores no GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/FranciscoMelen10?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+</div>
+
+<br>
+<br>
+<br>
+
+
+<div align="center">
+  <h2>🚀 Tecnologies 🚀</h2>
+    
+![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=000000) 
+![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=000000) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=000000) 
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000) 
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=000000) 
+![Flutter](https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=000000) 
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000) 
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=000000) 
+![Astro](https://img.shields.io/badge/Astro-ffffff?style=for-the-badge&logo=astro&logoColor=000000) 
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=000000) 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-ffffff?style=for-the-badge&logo=microsoftsqlserver&logoColor=000000) 
+
+</div>
+
+
+<br>
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">   
+    <h2>📊 Github status 📊</h2>
+
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=FranciscoMelen10&theme=default&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&include_all_commits=false&count_private=false" />
+
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoMelen10&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&background=ffffff" />
+
+</div>
+
+<br>
+
+<br>
+
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iiwrcdsol5uosdgpqvguvmkyla" target="_blank">
+    <img 
+      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iiwrcdsol5uosdgpqvguvmkyla&background_color=ffffff&font_color=000000" 
+      alt="Data Card for Spotify"
+    />
+  </a>
+</div>
+
+</div>
